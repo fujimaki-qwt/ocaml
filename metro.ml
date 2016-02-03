@@ -4,6 +4,7 @@ type ekimei_t = {
   romaji  : string; (* ローマ字 *) 
   shozoku : string; (* 所属線名 *) 
 } 
+
  
 type ekikan_t = { 
   kiten  : string; (* 起点 *) 
